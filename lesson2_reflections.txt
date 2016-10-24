@@ -1,2 +1,5 @@
 Q1:What happens when you initialize a repository? Why do you need to do it?
 A1:It just creats the .git folder initializing all the necessary data to hold the repository information. At first no commits will be by default in the repository.
+
+Q2:How is the staging area different from the working directory and the repository? What value do you think it offers?
+A2:Staging area acts as a buffer between the working directory and the commits we want to make to the repository. Gives us more flexibily when commiting.
