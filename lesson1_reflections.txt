@@ -1,0 +1,8 @@
+Q4:How can you use the commands git log and git diff to view the history of files?
+A4:You can use these commands to see what changes were introduced over time in your project.
+
+Q5:How might using version control make you more confident to make changes that could break something?
+A5:Knowing that you can always have a working version available to show when needed gives you the confidence to tackle bigger and more complex changes to your project without fear of breaking something.
+
+Q6:Now that you have your workspace set up, what do you want to try using Git for?
+A6:Building my own projects using github.
