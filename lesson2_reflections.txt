@@ -3,3 +3,18 @@ A1:It just creats the .git folder initializing all the necessary data to hold th
 
 Q2:How is the staging area different from the working directory and the repository? What value do you think it offers?
 A2:Staging area acts as a buffer between the working directory and the commits we want to make to the repository. Gives us more flexibily when commiting.
+
+Q3:How can you use the staging area to make sure you have one commit per logical change?
+A3:Was answered on previous question don't you think?
+
+Q4:What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A4:When making big changes that will change much of the behaviour or aspect of the game, but you still want to keep a fully functional version.
+
+Q5:How do the diagrams help you visualize the branch structure?
+A5:Visualizing everything helps make these concepts clear. Especially the deatached heads problem.
+
+Q6:What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A6:Makes one branch incorporate the changes made in another, resulting in that branch having all the commits from both branch previous to the merge.
+
+Q7:What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A7:Automatic merging is much faster and trouble free, however manual merges allow to merge much more complex changes that happened on the same part of a project by 2 sides at the same time. Usually envolves both parties coming together and discussing how to merge the code.
